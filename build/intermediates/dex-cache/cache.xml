@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Son\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Son\Desktop\J2xxHyperTerm\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e88db6b691f376e8ee7e49f711b624a9e35ef763.jar" />
+    </item>
+    <item
+        jar="C:\Users\Son\Desktop\J2xxHyperTerm\app\libs\d2xx.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\Users\Son\Desktop\J2xxHyperTerm\app\build\intermediates\pre-dexed\debug\d2xx-8a56b979923df8a36a5914dd336d20f61510347c.jar" />
+    </item>
+
+</items>
